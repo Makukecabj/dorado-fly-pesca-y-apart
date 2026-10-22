@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dorado-fly-pesca-y-apart.vercel.app/sitemap.xml
